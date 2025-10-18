@@ -1,1 +1,1 @@
-# CS440_Project1_Team3
+# CS440_Project1_Group3
